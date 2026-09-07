@@ -68,7 +68,6 @@ Blinkit Grocery Sales Dashboard/
 │
 ├── 📁 assets/
 │   ├── blinkit_sales_dashboard.png
-│   └── Screenshot 2026-09-07 091541.png
 │
 └── 📄 README.md
     └── Project documentation
